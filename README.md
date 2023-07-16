@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xondamir02&theme=swift)](https://github.com/jamolmeyliyev/)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jamolmeyliyev&theme=swift)](https://github.com/jamolmeyliyev/)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamolmeyliyev&text_color=black&text_bold=true&title_color=dark&bg_color=white&card_width=495px&hide=html,css)](https://github.com/jamolmeyliyev/)</div>
 
 
