@@ -24,7 +24,7 @@
 <h1>🛠 Me Stack</h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jamolmeyliyev&show_icons=true&theme=swift" alt="Jamolbek :: Profile Stats" /></p>
 
- 
+ ![Snake animation](https://github.com/jamolmeyliyev/JamolMeyliyev/blob/main/github-contribution-grid-snake.svg)
 
 
 </div>
